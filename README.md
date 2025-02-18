@@ -2,9 +2,9 @@
 
 A new Flutter project.
 Screens:
-1. HomeScreen: https://asset.cloudinary.com/dx43z0uml/d33f43a1644eba47d07863c208f3ea04
-2. EditidScreen: https://asset.cloudinary.com/dx43z0uml/004de0ab8e4a2ed29665b147838713da
-3. NoteViewScreen: https://asset.cloudinary.com/dx43z0uml/af7687d4aaacd738e09ebdcff9e9f06f
+1. HomeScreen: https://res.cloudinary.com/dx43z0uml/image/upload/v1739901966/1_umvpp4.jpg
+2. EditidScreen: https://res.cloudinary.com/dx43z0uml/image/upload/v1739902094/2_a4f58o.jpg
+3. NoteViewScreen: https://res.cloudinary.com/dx43z0uml/image/upload/v1739902103/3_gpgo9s.jpg
 
 ## Getting Started
 
