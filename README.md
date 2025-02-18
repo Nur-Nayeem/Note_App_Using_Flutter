@@ -2,9 +2,10 @@
 
 A new Flutter project.
 Screens:
-1. HomeScreen: https://res.cloudinary.com/dx43z0uml/image/upload/v1739901966/1_umvpp4.jpg
-2. EditidScreen: https://res.cloudinary.com/dx43z0uml/image/upload/v1739902094/2_a4f58o.jpg
-3. NoteViewScreen: https://res.cloudinary.com/dx43z0uml/image/upload/v1739902103/3_gpgo9s.jpg
+
+1. HomeScreen:  ![image](https://res.cloudinary.com/dx43z0uml/image/upload/v1739901966/1_umvpp4.jpg)
+2. EditidScreen:  ![image](https://res.cloudinary.com/dx43z0uml/image/upload/v1739902094/2_a4f58o.jpg)
+3. NoteViewScreen:  ![image](https://res.cloudinary.com/dx43z0uml/image/upload/v1739902103/3_gpgo9s.jpg)
 
 ## Getting Started
 
