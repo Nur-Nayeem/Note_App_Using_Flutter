@@ -37,6 +37,7 @@ class _NoteViewState extends State<NoteView> {
         color: noteColor,
         child: Padding(
           padding: const EdgeInsets.all(16.0),
+          child: SingleChildScrollView(
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
@@ -51,6 +52,7 @@ class _NoteViewState extends State<NoteView> {
               Text(widget.content, style: const TextStyle(fontSize: 16)),
             ],
           ),
+        ),
         ),
       ),
     );
